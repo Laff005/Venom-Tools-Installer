@@ -7,3 +7,4 @@ Tool-X works on any of the following operating systems:<br>
 • Android (Using the Termux App)<br>
 • Linux (Debian Based Systems)<br>
 • Unix<br>
+7
